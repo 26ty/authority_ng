@@ -1,45 +1,24 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Authority_ng Hs 後台管理系統
+### 線上測試版網址
+https://t.auth.d2din.com 
+### 功能說明
+企業內部重要的後台權限管理系統，可管理員工於企業內部系統的各式權限，如部門主管允許擁有讀取、核准部門員工的假單的權限。致力於改善並提升後台管理之效率。
+以RBAC概念進行權限管理系統的設計，使用者可同時擁有多個權限角色，並且不會互相影響。
+以簡約的UI設計適當引導後台管理人員使用該系統，使用代表性色彩表達一般常用按鈕、功能，無須額外熟悉的介面設計。
+* 登入畫面
+![image](https://user-images.githubusercontent.com/69799370/236853650-5d1d8fc8-da34-4cae-b92e-626f4da0dca3.png)
+* 首頁
+![image](https://user-images.githubusercontent.com/69799370/236853780-fa32563b-59b9-4451-a9c0-4a001442c660.png)
+* 使用者管理頁面
+![image](https://user-images.githubusercontent.com/69799370/236853859-28b17d90-7688-461c-a8b9-76365f131111.png)
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
-
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
-
----
-
-## Edit a file
-
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
-
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
-
----
-
-## Create a file
-
-Next, you’ll add a new file to this repository.
-
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+### 系統使用框架、工具
+1. Angular網頁框架與PrimeNG UI元件設計
+2. Typescript後端語言
+3. 以Golang語言撰寫之api
+### 執行方式
+1. 終端機執行app.py python檔案
+```
+ng serve -o
+```
+2. 打開網頁本機位址:5000
