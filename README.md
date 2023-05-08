@@ -19,7 +19,7 @@ https://t.auth.d2din.com
 2. Typescript後端語言
 3. 以Golang語言撰寫之api
 ### 執行方式
-1. 終端機執行app.py python檔案
+1. 終端機執行檔案
 ```
 ng serve -o
 ```
