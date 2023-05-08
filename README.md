@@ -9,8 +9,10 @@ https://t.auth.d2din.com
 ![image](https://user-images.githubusercontent.com/69799370/236853650-5d1d8fc8-da34-4cae-b92e-626f4da0dca3.png)
 * 首頁
 ![image](https://user-images.githubusercontent.com/69799370/236853780-fa32563b-59b9-4451-a9c0-4a001442c660.png)
-* 使用者管理頁面
+* 使用者管理 頁面
 ![image](https://user-images.githubusercontent.com/69799370/236853859-28b17d90-7688-461c-a8b9-76365f131111.png)
+* 使用者管理-修改 頁面
+![image](https://user-images.githubusercontent.com/69799370/236854623-bb5f9070-8c45-4cc3-acbb-e2dadf55d96c.png)
 
 ### 系統使用框架、工具
 1. Angular網頁框架與PrimeNG UI元件設計
