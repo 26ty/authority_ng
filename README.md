@@ -17,7 +17,6 @@ https://t.auth.d2din.com
 ### 系統使用框架、工具
 1. Angular網頁框架與PrimeNG UI元件設計
 2. Typescript後端語言
-3. 以Golang語言撰寫之api
 ### 執行方式
 1. 終端機執行檔案
 ```
